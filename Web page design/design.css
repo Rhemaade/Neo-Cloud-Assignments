@@ -1,0 +1,28 @@
+body {
+    background-image: url("mainPageBackground.jpg");
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1 {
+    color: white;
+    text-align: center;
+    text-shadow: 2px burlywood;
+    font-size: 5vw;
+}
+h2 {
+    color: white;
+}
+p {
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+}
+#classes {
+    color: rgb(13, 13, 14);
+    font-size: larger;
+}
+#mine {
+    color: rgb(107, 161, 192);
+    font-size: larger;
+}

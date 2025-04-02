@@ -1,0 +1,10 @@
+body {
+    background-color: burlywood;
+}
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#home {
+    position: fixed;
+    
+}
